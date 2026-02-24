@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mohamed Amgad 👋
 ### DevOps & Cloud Engineer in the making 🚀
 
 I am a passionate **DevOps Engineer** focused on automating workflows, building CI/CD pipelines, and managing cloud infrastructure. I love turning complex deployment processes into simple, "one-click" solutions.
